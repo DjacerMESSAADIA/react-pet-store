@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67482ecd730016707234881f"
+  },
+  "name": "Lolla",
+  "type": "dog",
+  "birthdate": {
+    "$date": "2020-05-12T00:00:00.000Z"
+  },
+  "gender": "female",
+  "description": "A friendly Golden Retriever who loves playing fetch and going on long walks.",
+  "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthehappypuppysite.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fpuppy5.jpg&f=1&nofb=1&ipt=e2607a2108bd21996786fb8f763c9e3b1000891635de7b43d890902380a7dc61&ipo=images",
+  "createdAt": {
+    "$date": "2024-11-28T08:50:21.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T11:25:19.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67482ed97300167072348821"
+  },
+  "name": "Polly",
+  "type": "bird",
+  "birthdate": {
+    "$date": "2022-12-03T00:00:00.000Z"
+  },
+  "gender": "female",
+  "description": "A colorful parakeet with a playful personality and excellent mimicking skills.",
+  "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ToSw7ySxw3FPx_-5ShH4pwHaE8%26pid%3DApi&f=1&ipt=cfcad381b34a2482da70fc46847a2a47c79d4687a12eaf7cc6654dedebcd216d&ipo=images",
+  "createdAt": {
+    "$date": "2024-11-28T08:50:33.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T09:29:33.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67482f217300167072348823"
+  },
+  "name": "Mittens",
+  "type": "cat",
+  "birthdate": {
+    "$date": "2021-07-21T00:00:00.000Z"
+  },
+  "gender": "female",
+  "description": "A shy black and white tuxedo cat who enjoys lounging in sunny spots.",
+  "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Xz6Gkyk1wtNwG4cgDLp3-gHaDt%26pid%3DApi&f=1&ipt=6a4e780b2fc8402640a2c22109c914743ff338002d18ee67e9e8bbdad46c6660&ipo=images",
+  "createdAt": {
+    "$date": "2024-11-28T08:51:45.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T08:51:45.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67482f2a7300167072348825"
+  },
+  "name": "Rocky",
+  "type": "dog",
+  "birthdate": {
+    "$date": "2019-03-15T00:00:00.000Z"
+  },
+  "gender": "male",
+  "description": "An energetic Jack Russell Terrier who loves agility training and playing with toys.",
+  "photo": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F06%2FJack_Russell_Terrier_2.jpg&f=1&nofb=1&ipt=eb6645af8020597d901cec5193e1a6045cbc3113b85e7a28cbcb9997e95789a2&ipo=images",
+  "createdAt": {
+    "$date": "2024-11-28T08:51:54.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T08:51:54.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67482f377300167072348827"
+  },
+  "name": "Tweety",
+  "type": "bird",
+  "birthdate": {
+    "$date": "2023-01-10T00:00:00.000Z"
+  },
+  "gender": "male",
+  "description": "A young canary with a beautiful singing voice and bright yellow feathers.",
+  "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F3569%2F3833539679_e3d02e027c_b.jpg&f=1&nofb=1&ipt=de558df0cf7af0f8fec06a19774b383e30a1c5f1946d8fdf9834f69370a68991&ipo=images",
+  "createdAt": {
+    "$date": "2024-11-28T08:52:07.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T08:52:07.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6748304954214b580bbe5c5c"
+  },
+  "name": "Luna",
+  "type": "other",
+  "birthdate": {
+    "$date": "2022-09-05T00:00:00.000Z"
+  },
+  "gender": "female",
+  "description": "A curious hedgehog who loves exploring her habitat and eating mealworms.",
+  "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.eLu7GSLQQlruvZZNa5C1GgHaFx%26pid%3DApi&f=1&ipt=b6ba7e89f342a77ea3d02e224b815598f4f5e49692497ff18fcc91e9813be4bd&ipo=images",
+  "createdAt": {
+    "$date": "2024-11-28T08:56:41.747Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T08:56:41.747Z"
+  },
+  "__v": 0
+}]
